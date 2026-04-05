@@ -1,0 +1,31 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak
+env.rm
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node
+node_modules/
+dist/
+build/
+.next/
+.turbo/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Agent specific (if you don't want to push them)
+# .agents/
+# .gemini/

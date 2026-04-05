@@ -26,6 +26,6 @@ build/
 .DS_Store
 Thumbs.db
 
-# Agent specific (if you don't want to push them)
-# .agents/
-# .gemini/
+# Agent specific
+.agents/
+.gemini/
